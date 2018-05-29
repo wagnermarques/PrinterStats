@@ -1,0 +1,20 @@
+{
+  "name": "printers-stats",
+  "version": "1.0.0",
+  "description": "Printer statistics by parsing printer html manage site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnermarques/printers-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagnermarques/printers-stats/issues"
+  },
+  "homepage": "https://github.com/wagnermarques/printers-stats#readme"
+}
