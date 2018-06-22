@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wagnermarques/printers-stats/issues"
   },
-  "homepage": "https://github.com/wagnermarques/printers-stats#readme"
+  "homepage": "https://github.com/wagnermarques/printers-stats#readme",
+  "dependencies": {
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
+  }
 }
